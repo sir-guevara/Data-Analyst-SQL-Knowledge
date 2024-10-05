@@ -347,5 +347,5 @@ SELECT * FROM GetSalesByCustomer(1) AS SalesForCustomer;
 ```
 
 **Footnote:** _This document serves as a foundational guide for learning SQL, covering essential concepts, commands, and best practices. Whether you're a beginner seeking to understand the basics or an intermediate learner aiming to refine your skills, mastering SQL is crucial for effective data management and analysis. For a deeper understanding, consider exploring additional resources such as online courses, tutorials, and hands-on practice with real-world datasets. Continuous practice and real-life application of these concepts will significantly enhance your proficiency in SQL._
-**Credit:** _Compiled by [MC Guevara[(https://mcguevara.com), a passionate data analyst dedicated to sharing knowledge and empowering others in their SQL journey._
+**Credit:** _Compiled by [MC Guevara](https://mcguevara.com), a passionate data analyst dedicated to sharing knowledge and empowering others in their SQL journey._
 **Help Line:** _For questions, clarifications, or further assistance, feel free to reach out at [career@mcguevara.com](mailto:career@mcguevara.com) or visit online forums and communities like Stack Overflow, SQLServerCentral, or the Microsoft SQL Server forums._
